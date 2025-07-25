@@ -1,0 +1,9 @@
+*.yaml
+*.env
+*.venv
+*.sum
+*.exe
+*.db
+
+/config
+/storage
